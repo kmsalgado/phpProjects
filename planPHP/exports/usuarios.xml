@@ -1,0 +1,79 @@
+<DATA>
+
+	<ROW>
+		<idusuarios>1</idusuarios>
+		<nombre>Kevin Mateo</nombre>
+		<apellido>Salgado Millan</apellido>
+		<correo>kevinxc31@gmail.com</correo>
+		<telefono>2767950</telefono>
+		<contra>admin</contra>
+		<user>kevin01</user>
+		<tipoUser>Administrador</tipoUser>
+	</ROW>
+
+	<ROW>
+		<idusuarios>2</idusuarios>
+		<nombre>Andres</nombre>
+		<apellido>Salzar</apellido>
+		<correo>andres@gmail.com</correo>
+		<telefono>4905685</telefono>
+		<contra>admin</contra>
+		<user>andres02</user>
+		<tipoUser>Administrador</tipoUser>
+	</ROW>
+
+	<ROW>
+		<idusuarios>3</idusuarios>
+		<nombre>Juan</nombre>
+		<apellido>Perdomo</apellido>
+		<correo>juan@gmail.com</correo>
+		<telefono>5468481</telefono>
+		<contra>asesor</contra>
+		<user>juan03</user>
+		<tipoUser>Asesor</tipoUser>
+	</ROW>
+
+	<ROW>
+		<idusuarios>4</idusuarios>
+		<nombre>Paco</nombre>
+		<apellido>Rodriguez</apellido>
+		<correo>paco@gmail.com</correo>
+		<telefono>6465161</telefono>
+		<contra>asesor</contra>
+		<user>paco04</user>
+		<tipoUser>Asesor</tipoUser>
+	</ROW>
+
+	<ROW>
+		<idusuarios>5</idusuarios>
+		<nombre>Claudia</nombre>
+		<apellido>Ramirez</apellido>
+		<correo>claudia@gmail.com</correo>
+		<telefono>3441541</telefono>
+		<contra>vendedor</contra>
+		<user>claudia05</user>
+		<tipoUser>Vendedor</tipoUser>
+	</ROW>
+
+	<ROW>
+		<idusuarios>6</idusuarios>
+		<nombre>Brandon</nombre>
+		<apellido>Itagui</apellido>
+		<correo>brandon@gmail.com</correo>
+		<telefono>6510158</telefono>
+		<contra>vendedor</contra>
+		<user>brandon06</user>
+		<tipoUser>Vendedor</tipoUser>
+	</ROW>
+
+	<ROW>
+		<idusuarios>7</idusuarios>
+		<nombre>pedro</nombre>
+		<apellido>castaÃ±o</apellido>
+		<correo>ggg@gmail.com</correo>
+		<telefono>2147483647</telefono>
+		<contra>123456</contra>
+		<user>lcmyesid</user>
+		<tipoUser>Administrador</tipoUser>
+	</ROW>
+</DATA>
