@@ -11,4 +11,6 @@ https://es.stackoverflow.com/questions/80566/validar-informaci%C3%B3n-de-un-arch
 
 https://phpspreadsheet.readthedocs.io/en/develop/
 
+https://programacionmaster.wordpress.com/2015/07/15/composer-y-netbeans/
+
 Ole DB
