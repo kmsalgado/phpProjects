@@ -9,4 +9,6 @@ https://docs.microsoft.com/es-es/sql/ssms/agent/create-a-transact-sql-job-step
 
 https://es.stackoverflow.com/questions/80566/validar-informaci%C3%B3n-de-un-archivo-excel-luego-de-subido
 
+https://phpspreadsheet.readthedocs.io/en/develop/
+
 Ole DB
