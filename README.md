@@ -19,4 +19,6 @@ https://phalconphp.com/es/download/windows
 
 http://www.yiiframework.com/download/#yii2
 
+http://www.maatwebsite.nl/laravel-excel/docs/getting-started#installation
+
 Ole DB
