@@ -13,4 +13,6 @@ https://phpspreadsheet.readthedocs.io/en/develop/
 
 https://programacionmaster.wordpress.com/2015/07/15/composer-y-netbeans/
 
+https://laravel.com/docs/4.2
+
 Ole DB
