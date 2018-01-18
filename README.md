@@ -21,4 +21,16 @@ http://www.yiiframework.com/download/#yii2
 
 http://www.maatwebsite.nl/laravel-excel/docs/getting-started#installation
 
+http://jsfiddle.net/T9Bhm/7/
+
+http://jsfiddle.net/panchroma/vPH8N/
+
+https://datatables.net/examples/basic_init/scroll_x.html
+
+https://www.codeply.com/go/XGV8aYFiZW/bootstrap-horizontal-scrolling-table
+
+https://labsvh.wordpress.com/2016/01/11/upload-backup-php/
+
+https://es.stackoverflow.com/questions/68761/cambiar-ruta-para-guardar-un-archivo-creado-con-phpexcel
+
 Ole DB
