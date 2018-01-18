@@ -33,4 +33,18 @@ https://labsvh.wordpress.com/2016/01/11/upload-backup-php/
 
 https://es.stackoverflow.com/questions/68761/cambiar-ruta-para-guardar-un-archivo-creado-con-phpexcel
 
+https://es.stackoverflow.com/questions/40254/problema-al-exportar-a-excel-en-el-servidor
+
+https://stackoverflow.com/questions/32433750/how-to-choose-location-to-save-file-excel-with-phpexcel
+
+https://stackoverflow.com/questions/8566196/phpexcel-to-download/8566285
+
+https://stackoverflow.com/questions/17021449/phpexcel-save-file
+
+http://vertutoriales.com/descargar-archivo-automaticamente-desde-php-lanzar-descarga/
+
+http://php.net/manual/en/wrappers.php.php
+
+https://www.lawebdelprogramador.com/foros/PHP/1631059-Descarga-de-Archivo-PHPExcel.html
+
 Ole DB
