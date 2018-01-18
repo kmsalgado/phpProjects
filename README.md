@@ -47,4 +47,6 @@ http://php.net/manual/en/wrappers.php.php
 
 https://www.lawebdelprogramador.com/foros/PHP/1631059-Descarga-de-Archivo-PHPExcel.html
 
+https://stackoverflow.com/questions/8566196/phpexcel-to-download
+
 Ole DB
